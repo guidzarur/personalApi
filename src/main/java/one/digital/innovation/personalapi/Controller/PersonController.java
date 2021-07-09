@@ -3,7 +3,6 @@ package one.digital.innovation.personalapi.Controller;
 import lombok.AllArgsConstructor;
 import one.digital.innovation.personalapi.dto.request.PersonDTO;
 import one.digital.innovation.personalapi.dto.response.MessageResponseDTO;
-import one.digital.innovation.personalapi.entity.Person;
 import one.digital.innovation.personalapi.exception.PersonNotFoundException;
 import one.digital.innovation.personalapi.service.PersonalService;
 import org.springframework.beans.factory.annotation.Autowired;
